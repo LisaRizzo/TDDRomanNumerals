@@ -1,0 +1,11 @@
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\bin\Debug\netcoreapp2.2\NumberToRomanNumerals.deps.json
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\bin\Debug\netcoreapp2.2\NumberToRomanNumerals.runtimeconfig.json
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\bin\Debug\netcoreapp2.2\NumberToRomanNumerals.runtimeconfig.dev.json
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\bin\Debug\netcoreapp2.2\NumberToRomanNumerals.dll
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\bin\Debug\netcoreapp2.2\NumberToRomanNumerals.pdb
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\obj\Debug\netcoreapp2.2\NumberToRomanNumerals.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\obj\Debug\netcoreapp2.2\NumberToRomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\obj\Debug\netcoreapp2.2\NumberToRomanNumerals.AssemblyInfoInputs.cache
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\obj\Debug\netcoreapp2.2\NumberToRomanNumerals.AssemblyInfo.cs
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\obj\Debug\netcoreapp2.2\NumberToRomanNumerals.dll
+C:\Users\lisaa\source\repos\NumberToRomanNumerals\NumberToRomanNumerals\obj\Debug\netcoreapp2.2\NumberToRomanNumerals.pdb
